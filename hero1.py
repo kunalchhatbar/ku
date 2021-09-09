@@ -468,7 +468,7 @@ def loadConfig():
 
         requested_diff = "1"
         
-        rig_identiier = "db"
+        rig_identiier = "hero1"
 
         
 
