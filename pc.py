@@ -462,7 +462,7 @@ def loadConfig():
 
         efficiency = "100"
 
-        threadcount = "8"
+        threadcount = "4"
 
        
 
